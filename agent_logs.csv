@@ -1,0 +1,20 @@
+﻿,Action,Timestamp,Details,Confidence,ResponseTime,Error,SLA_Breach,Remediation,Remediation_Executed,Rationale,Policy
+,,,,,,,,,,,
+0,Release Artefacts Decision Maker,6/06/2025 11:31,Performed Release Artefacts Decision Maker,0.95,1.08,FALSE,FALSE,,FALSE,This action was chosen based on the agent's confidence level and response time.,Default Remediation Policy
+,,,,,,,,,,,
+1,Risk Scoring,6/06/2025 11:31,Performed Risk Scoring,0.81,0.78,FALSE,FALSE,,FALSE,This action was chosen based on the agent's confidence level and response time.,Default Remediation Policy
+,,,,,,,,,,,
+2,Fraud Detection,6/06/2025 11:31,Performed Fraud Detection,0.86,0.97,TRUE,FALSE,Restart service or notify support team,FALSE,This action was chosen based on the agent's confidence level and response time.,Default Remediation Policy
+,,,,,,,,,,,
+3,Release Artefacts Decision Maker,6/06/2025 11:31,Performed Release Artefacts Decision Maker,0.79,0.87,FALSE,FALSE,,FALSE,This action was chosen based on the agent's confidence level and response time.,Default Remediation Policy
+,,,,,,,,,,,
+4,Risk Scoring,6/06/2025 11:31,Performed Risk Scoring,0.99,0.86,TRUE,FALSE,Restart service or notify support team,FALSE,This action was chosen based on the agent's confidence level and response time.,Default Remediation Policy
+,,,,,,,,,,,
+5,Fraud Detection,6/06/2025 11:31,Performed Fraud Detection,0.82,0.78,FALSE,FALSE,,FALSE,This action was chosen based on the agent's confidence level and response time.,Default Remediation Policy
+,,,,,,,,,,,
+6,Release Artefacts Decision Maker,6/06/2025 11:31,Performed Release Artefacts Decision Maker,0.71,1.94,FALSE,FALSE,,FALSE,This action was chosen based on the agent's confidence level and response time.,Default Remediation Policy
+,,,,,,,,,,,
+7,Risk Scoring,6/06/2025 11:31,Performed Risk Scoring,0.82,0.63,FALSE,FALSE,,FALSE,This action was chosen based on the agent's confidence level and response time.,Default Remediation Policy
+,,,,,,,,,,,
+8,Fraud Detection,6/06/2025 11:31,Performed Fraud Detection,1,2.08,FALSE,TRUE,Scale resources or optimize workflow,FALSE,This action was chosen based on the agent's confidence level and response time.,Default Remediation Policy
+,,,,,,,,,,,

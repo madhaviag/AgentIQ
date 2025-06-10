@@ -1,0 +1,23 @@
+flowchart TD
+    A([Monitored Agents])
+    B([AgentIQ])
+    C([Other Agentic AIs])
+    D([Telemetry Collector])
+    E([Reasoning Engine])
+    F([Action Orchestrator])
+    G([Central Storage & Analysis Platform])
+    H([Dashboards & Reports])
+    I([Human Operators])
+    J([Alerting/Notification System])
+
+    A --- B
+    B <--> C
+    B --- D
+    B --- E
+    B --- F
+    D --- G
+    E --- G
+    F --- G
+    G --- H
+    H <--> I
+    G --- J
