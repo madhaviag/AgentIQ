@@ -2,7 +2,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import webbrowser
 import pandas as pd
-from pdf_utils import df_to_pdf
+
 
 
 
